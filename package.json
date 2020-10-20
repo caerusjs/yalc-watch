@@ -1,5 +1,5 @@
 {
-  "name": "yalc-watch",
+  "name": "@caerusjs/yalc-watch",
   "version": "0.0.6",
   "description": "",
   "main": "index.js",
